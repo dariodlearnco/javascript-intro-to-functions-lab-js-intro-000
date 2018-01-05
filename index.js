@@ -11,7 +11,7 @@ function logShout(msg) {
 }
 
 function logWhisper(msg) {
-
+    conole.log(msg.toLowerCase())
 }
 
 function sayHiToGrandma(msg) {
