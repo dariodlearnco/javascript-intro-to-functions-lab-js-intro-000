@@ -7,7 +7,7 @@ function whisper(phrase) {
 }
 
 function logShout(msg) {
-
+    conole.log(msg.toUpperCase())
 }
 
 function logWhisper(msg) {
