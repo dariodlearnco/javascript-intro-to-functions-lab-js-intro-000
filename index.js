@@ -5,3 +5,15 @@ function shout(what) {
 function whisper(phrase) {
     return(phrase.toLowerCase())
 }
+
+function logShout(msg) {
+    
+}
+
+function logWhisper(msg) {
+    
+}
+
+function sayHiToGrandma(msg) {
+
+}
