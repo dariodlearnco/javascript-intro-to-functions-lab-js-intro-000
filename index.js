@@ -7,11 +7,11 @@ function whisper(phrase) {
 }
 
 function logShout(msg) {
-    conole.log(msg.toUpperCase())
+    console.log(msg.toUpperCase())
 }
 
 function logWhisper(msg) {
-    conole.log(msg.toLowerCase())
+    console.log(msg.toLowerCase())
 }
 
 function sayHiToGrandma(msg) {
